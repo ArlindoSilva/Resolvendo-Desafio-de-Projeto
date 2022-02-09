@@ -1,0 +1,11 @@
+É uma estrutura ORGANIZADA de dados.
+
+PRINCIPAIS ESTRUTURAS DE DADOS:
+ - Vetores e Matrizes
+ - Registro
+ - Lista
+ - Pilha 
+ - Fila
+ - Árvore
+ - Tabela Hash
+ - Grafos

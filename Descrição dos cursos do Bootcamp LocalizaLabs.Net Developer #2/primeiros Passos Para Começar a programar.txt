@@ -1,0 +1,28 @@
+Entender a lógica e os conceitos básicos para criação de algorítimos.
+Ter uma visão geral evolutiva da computação, entendo os conceitos 
+básicos e compreender como o computador executa as instruções desen-
+volvidas pelos profissionais da programação. Entender os paradigmas.
+
+TÉCNICAS DE LÓGICA DE PROGRAMAÇÃO:
+ - Técnica Linear
+ - Técnica Estruturada
+ - Técnica modular
+
+CARACTERÍSTICAS DE UM PROGRAMA:
+ - Legibilidade
+ - Redigibilidade
+ - Confiabilidade
+ - Custo
+
+ANÁLISE DO CÓDIGO:
+ - Lexical (idioma)
+ - Sintaxe (escrita)
+ - Semântica (significado)
+
+CLASSIFICAÇÃO DOS PARADIGMAS:
+ - Procedural
+ - Orientação a Objeto
+ - Funcional 
+ - Estruturado
+ - Lógico
+ - Computação Distribuída

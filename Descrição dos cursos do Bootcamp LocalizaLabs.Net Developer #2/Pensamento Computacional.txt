@@ -1,0 +1,5 @@
+PILARES DO PENSAMENTO COMPUTACIONAL:
+ - decomposição 
+ - padrões
+ - abstração 
+ - Algorítimos do pensamento computacional

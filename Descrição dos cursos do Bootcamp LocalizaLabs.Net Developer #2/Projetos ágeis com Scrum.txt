@@ -1,0 +1,7 @@
+Scrum é um framework utilizado no gerenciamento ágil dos 
+projetos de software.
+
+PILARES DO SCRUM:
+ - Transparência
+ - Adaptação
+ - Inspeção

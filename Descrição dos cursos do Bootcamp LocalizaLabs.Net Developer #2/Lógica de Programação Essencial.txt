@@ -1,0 +1,4 @@
+Criar algorítimos
+Criar fluxogramas
+Estruturas de repetição
+Desvios condicionais
